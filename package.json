@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-reddit-spoiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reddit style spoilers for markdown-it by ${Mr.DJA}.",
   "main": "./src/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "markdown",
     "markdown-it",
-	"markdown-it-regexp",
+    "markdown-it-regexp",
     "markdown-it-plugin",
     "markdown spoiler",
     "spoiler",
@@ -31,7 +31,7 @@
   "homepage": "https://github.com/iMrDJAi/markdown-it-reddit-spoiler#readme",
   "devDependencies": {
     "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.3.11"
   },
   "dependencies": {
     "markdown-it": "^10.0.0",

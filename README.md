@@ -23,7 +23,7 @@ This method will work on Node, but it can also work on browser after compiling i
 
 **Browser**:
 
-A pre-compilled version for browser is available on [JsDeliver CDN](https://cdn.jsdelivr.net/gh/iMrDJAi/markdown-it-reddit-spoiler/dist/main.js):
+A pre-compiled version for browser is available on [JsDeliver CDN](https://cdn.jsdelivr.net/gh/iMrDJAi/markdown-it-reddit-spoiler/dist/main.js):
 ```html
 <script src='https://cdn.jsdelivr.net/gh/iMrDJAi/markdown-it-reddit-spoiler/dist/main.js'></script>
 ```
@@ -41,7 +41,7 @@ You will see these methods and properties on the returned object:
 |:--:|:--:|
 | spoiler | This will render spoilers for you <3 |
 | blockquote | This is required to stop blockquotes from overriding spoilers |
-| nestedRenderer | This is required to render the nested tags inside spoilers | 12 |
+| nestedRenderer | This is required to render the nested tags inside spoilers |
 | env | This is needed to enable references outside spoilers | 
 | openTag | This is used to customize the open tag of spoilers since HTML doesn't have a real spoiler tag | 
 | closeTag | This one is for customizing the spoilers close tag | 
