@@ -144,6 +144,7 @@ Preview:
 ## Dependents Projects:
 Wanna use **markdown-it-reddit-spoiler** on your next big project? Let me now and it will be listed here! :)
 
+- [vscode-markdown-reddit-spoiler](https://github.com/AbhijeetKrishnan/vscode-markdown-reddit-spoiler): A Visual Studio Code extension that adds support for the Reddit `>!spoiler!<` syntax to the built-in markdown preview. - by [@AbhijeetKrishnan](https://github.com/AbhijeetKrishnan).
 - [iMrDJAi-MDE](https://github.com/iMrDJAi/iMrDJAi-MDE): Open source, Simple, Easy to use and fully featured Markdown editor - by me.
 
 ## Notes:
